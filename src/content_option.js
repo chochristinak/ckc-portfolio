@@ -37,40 +37,44 @@ const worktimeline = [{
 ];
 
 const skills = [{
-        name: "Python",
-        value: 90,
-    },
-    {
-        name: "React",
-        value: 85,
-    },
-    {
         name: "Javascript",
-        value: 80,
+        value: 88,
     },
     {
         name: "React",
-        value: 60,
+        value: 88,
+    },
+    {
+        name: "Python",
+        value: 77,
+    },
+    {
+        name: "HTML",
+        value: 88,
+    },
+    {
+        name: "CSS",
+        value: 69,
     },
     {
         name: "Web Development",
-        value: 85,
+        value: 55,
     },
     {
         name: "API Design and Development",
-        value: 85,
+        value: 55,
     },
     {
         name: "Database Management",
         value: 85,
     },
     {
-        name: "Software Devlopment Methologies",
-        value: 85,
+        name: "Software Development Methologies",
+        value: 77,
     },
     {
         name: "Debugging",
-        value: 85,
+        value: 77,
     }
 ];
 
