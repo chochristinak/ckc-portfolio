@@ -28,6 +28,6 @@ Portfolio for Full-Stack Software Developer Christina Cho
 
 
 
-### Thanks
 
-:star: Cloned from [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+
+### [Thanks](https://github.com/ubaimutl/react-portfolio.git)  :star:
