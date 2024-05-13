@@ -1,38 +1,38 @@
-const logotext = "JOHN";
+const logotext = "CHRISTINA";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Christina Cho",
+    description: "I’m Christina _ Full stack devloper,currently working in NYC",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Christina Cho",
     animated: {
         first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        second: "I make cool websites",
+        third: "I develop user-focused products and design",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Passionate about empowering others through innovative design, I prioritize user-centric solutions. Proficient in both independent problem-solving and collaborative teamwork, I excel in dynamic environments. Embracing curiosity, I eagerly pursue learning opportunities. Committed to delivering value-based solutions, I execute tasks with efficiency and precision.",
+    your_img_url: "https://totemsurftribe.files.wordpress.com/2024/05/portfolioimage.jpeg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "Who is Christina?",
+    aboutme: "Coder, devoted mom, and nature lover. Finds joy in the rhythm of the waves - in life and the ocean - balanced with the the tranquility of yoga practice. Passionate about creating practical and useful products that can help and nurture connections within communities and help individuals with their self-growth journey.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Digital Marketing",
+        where: "Remote",
+        date: "2021-2024",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Food, Beverage, and Hospitality Service",
+        where: "NYC",
+        date: "2013-2018",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Marketing Director",
+        where: "NYC",
+        date: "2015-2016",
     },
 ];
 
@@ -41,7 +41,7 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
+        name: "React",
         value: 85,
     },
     {
@@ -53,104 +53,77 @@ const skills = [{
         value: 60,
     },
     {
-        name: "Jquery",
+        name: "Web Development",
         value: 85,
     },
+    {
+        name: "API Design and Development",
+        value: 85,
+    },
+    {
+        name: "Database Management",
+        value: 85,
+    },
+    {
+        name: "Software Devlopment Methologies",
+        value: 85,
+    },
+    {
+        name: "Debugging",
+        value: 85,
+    }
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Front-End Development",
+        description: "Customized Design Solutions. Crafting dynamic web experiences, spanning from category banners to intricate navigation systems. Achieved through proficiency in HTML, CSS, and various CSS libraries, including Bootstrap, React-Bootstrap, Materialize, and more.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Back-End Development",
+        description: "Designing dynamic web functionalities, from database management to server-side logic. Achieved with technical skills in JavaScript (Node.js), Python (Django), and SQL databases, I leverage frameworks like Express & Node.js for efficient development. I prioritize scalability and performance.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Full-Stack Web Apps",
+        description: "Ability to craft full-stack web applications with seamless integration of front-end and back-end technologies for optimal user experiences.",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://picsum.photos/400/600?grayscale",
+        description: "YinVoyage. A Yoga Retreat Booking App that your soul yearns for.",
+        link: "https://yin-voyage-388cec4a1d07.herokuapp.com/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "SurfBuudy. A Surf School Management App.",
+        link: "https://surfbuddy-28492932a4e1.herokuapp.com/",
+    },
+    {
+        img: "https://picsum.photos/400/?grayscale",
+        description: "SPACEWOMAN. A browser-based word guessing game.",
+        link: "https://chochristinak.github.io/project1-spacewoman/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        description: "MoonJournal. A journaling app that helps you set goals and journal by harnessing the Moon's Energies.",
+        link: "https://moon-journal-783b5e0d9f7f.herokuapp.com/",
     },
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "chochristinak@gmail.com",
+    YOUR_FONE: "(505) 8254 2144",
+    description: "Like my work? Let's get in touch!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_rvz9rfh",
+    YOUR_TEMPLATE_ID: "template_m9w9h37",
+    YOUR_USER_ID: "Gb8hHmbIMARcICQz1",
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
-    twitter: "https://twitter.com",
+    github: "https://github.com/chochristinak",
+    linkedin: "http://www.linkedin.com/in/christinakcho",
 };
 export {
     meta,

@@ -4,8 +4,8 @@
     --secondary-color: #fff;
     --text-color: #fff;
     --text-color-2: #fff;
-    --text-color-3: rgb(204, 0, 0);
-    --overlay-color: rgb(12 12 12 / 63%);
+    --text-color-3: rgb(246, 194, 236);
+    --overlay-color: rgba(250, 154, 224, 0.518);
 }
 
 [data-theme="light"] {
@@ -14,8 +14,8 @@
     --secondary-color: #000;
     --text-color: #000;
     --text-color-2: #000;
-    --text-color-3: rgb(204, 0, 0);
-    --overlay-color: rgb(255 255 255 / 70%);
+    --text-color-3: rgb(178, 216, 248);
+    --overlay-color: rgba(112, 142, 203, 0.603);
 }
 
 html,
@@ -83,7 +83,7 @@ code {
 }
 
 .cursor__dot div:first-child {
-    filter: invert(1);
+    filter: invert(0);
     background-color: var(--overlay-color) !important;
 }
 
