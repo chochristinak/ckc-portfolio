@@ -1,10 +1,11 @@
 ### Description
 
-A simple portfolio template for developer/designers built with React. 
+Portfolio for Full-Stack Software Developer Christina Cho
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [CLICK TO SEE CHRISTINA'S PORTFOLIO](#)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
+[![Linkedin: christinakcho](https://img.shields.io/badge/-Christina%20Cho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christinakcho/)](https://www.linkedin.com/in/christinakcho/)
+[![GitHub Christina Cho](https://img.shields.io/github/followers/chochristinak?label=follow&style=social)](https://github.com/chochristinak)
 
 ### Features
 
@@ -16,23 +17,17 @@ A simple portfolio template for developer/designers built with React.
 
 ### Setup
 
-Get the code
-
-<pre>git clone https://github.com/ubaimutl/react-portfolio.git</pre>
- 
-Install required dependencies
-
-<pre>yarn install</pre>
 
 
-Start the server
 
-<pre>yarn start</pre>
+
 
 ### More
 
-Modify pages content in  `src/content_option.js`.
+
+
+
 
 ### Thanks
 
-If you like this portfolio template don't forget give it a ⭐ 
+:star: Cloned from [![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
