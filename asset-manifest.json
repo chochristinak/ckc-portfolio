@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/ckc-portfolio/static/css/main.05f8572e.css",
+    "main.js": "/ckc-portfolio/static/js/main.0c28a912.js",
+    "index.html": "/ckc-portfolio/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.05f8572e.css",
+    "static/js/main.0c28a912.js"
+  ]
+}
